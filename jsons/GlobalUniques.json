@@ -1,0 +1,10 @@
+{
+    "name": "Global uniques",
+    "uniques":[
+        "Cannot build [Military] units <when [禁用军事单位] Victory is enabled>",
+        "[+65535] Unit Supply <when [启用无限补给] Victory is enabled>",
+        "Nullifies [Science] [in all cities] <while researching [Classical era]> <when [禁用古典及以后科技] Victory is enabled>",
+        "Nullifies [Science] [in all cities] <while researching [Medieval era]> <when [禁用中古及以后科技] Victory is enabled>",
+        "Nullifies [Science] [in all cities] <while researching [Renaissance era]> <when [禁用启蒙及以后科技] Victory is enabled>"
+    ]
+}

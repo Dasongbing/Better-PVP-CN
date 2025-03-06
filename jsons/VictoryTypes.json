@@ -1,0 +1,37 @@
+[
+    {
+        "name": "禁用世界奇观",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁用世界奇观_建筑]"]
+    },
+    {
+        "name": "禁用军事单位",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁用军事单位_建筑]"]
+    },
+    {
+        "name": "禁用城墙类建筑",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁用城墙类建筑_建筑]"]
+    },
+    {
+        "name": "启用无限补给",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [启用无限补给_建筑]"]
+    },
+    {
+        "name": "禁用古典及以后科技",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁用古典及以后科技_建筑]"]
+    },
+    {
+        "name": "禁用中古及以后科技",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁用中古及以后科技_建筑]"]
+    },
+    {
+        "name": "禁用启蒙及以后科技",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁用启蒙及以后科技_建筑]"]
+    }
+]
