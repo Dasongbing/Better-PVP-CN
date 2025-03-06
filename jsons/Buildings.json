@@ -633,7 +633,7 @@
         "hurryCostModifier": 25,
         "requiredTech": "Masonry",
         "uniques": [
-            "Unbuildable <when [禁用城墙类建筑] Victory is enabled> <hidden from users>",
+            "Unbuildable <in [Hill] tiles> <when [禁用城墙类建筑(平城可修1级墙)] Victory is enabled> <hidden from users>",
             "Destroyed when the city is captured"
         ]
     },
@@ -647,7 +647,7 @@
         "hurryCostModifier": 25,
         "requiredTech": "Masonry",
         "uniques": [
-            "Unbuildable <when [禁用城墙类建筑] Victory is enabled> <hidden from users>",
+            "Unbuildable <when [禁用城墙类建筑(平城可修1级墙)] Victory is enabled> <hidden from users>",
             "Destroyed when the city is captured"
         ]
     },
@@ -659,7 +659,7 @@
         "requiredBuilding": "Walls",
         "requiredTech": "Chivalry",
         "uniques": [
-            "Unbuildable <when [禁用城墙类建筑] Victory is enabled> <hidden from users>",
+            "Unbuildable <when [禁用城墙类建筑(平城可修1级墙)] Victory is enabled> <hidden from users>",
             "Destroyed when the city is captured"
         ]
     },
@@ -674,7 +674,7 @@
         "hurryCostModifier": 25,
         "requiredBuilding": "Walls",
         "uniques": [
-            "Unbuildable <when [禁用城墙类建筑] Victory is enabled> <hidden from users>",
+            "Unbuildable <when [禁用城墙类建筑(平城可修1级墙)] Victory is enabled> <hidden from users>",
             "[+1 Gold] [in this city] <after discovering [Flight]>",
             "Destroyed when the city is captured"
         ],
@@ -689,7 +689,7 @@
         "requiredBuilding": "Castle",
         "requiredTech": "Metallurgy",
         "uniques": [
-            "Unbuildable <when [禁用城墙类建筑] Victory is enabled> <hidden from users>",
+            "Unbuildable <when [禁用城墙类建筑(平城可修1级墙)] Victory is enabled> <hidden from users>",
             "Destroyed when the city is captured"
         ]
     },
@@ -701,7 +701,7 @@
         "requiredBuilding": "Arsenal",
         "requiredTech": "Replaceable Parts",
         "uniques": [
-            "Unbuildable <when [禁用城墙类建筑] Victory is enabled> <hidden from users>",
+            "Unbuildable <when [禁用城墙类建筑(平城可修1级墙)] Victory is enabled> <hidden from users>",
             "Destroyed when the city is captured"
         ]
     }

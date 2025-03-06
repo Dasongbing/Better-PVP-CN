@@ -10,7 +10,7 @@
         "milestones": ["Build [禁用军事单位_建筑]"]
     },
     {
-        "name": "禁用城墙类建筑",
+        "name": "禁用城墙类建筑(平城可修1级墙)",
         "hiddenInVictoryScreen": true,
         "milestones": ["Build [禁用城墙类建筑_建筑]"]
     },
