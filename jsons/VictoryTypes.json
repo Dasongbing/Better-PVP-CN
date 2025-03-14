@@ -1,8 +1,13 @@
 [
     {
-        "name": "禁用世界奇观",
+        "name": "禁止人类造世界奇观",
         "hiddenInVictoryScreen": true,
-        "milestones": ["Build [禁用世界奇观_建筑]"]
+        "milestones": ["Build [禁止人类造世界奇观_建筑]"]
+    },
+    {
+        "name": "禁止AI造世界奇观",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Build [禁止AI造世界奇观_建筑]"]
     },
     {
         "name": "禁用军事单位",
